@@ -1,0 +1,3 @@
+INF: hostname = www.icir.org
+INF: web_filename = /
+INF: output_filename = /dev/null
